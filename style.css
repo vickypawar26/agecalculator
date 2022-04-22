@@ -33,6 +33,10 @@ button{
     margin: 15px;
     cursor: pointer;
 }
+p{
+    font-size: 1.2rem;
+    margin: 10px;
+}
 span{
     font-size: 1.5rem;
 }
